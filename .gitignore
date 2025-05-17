@@ -20,6 +20,7 @@ local.properties
 .idea/usage.statistics.xml
 .idea/dictionaries/
 .idea/httpRequests/
+!gradle/wrapper
 caches/
 wrapper/
 .tmp/
