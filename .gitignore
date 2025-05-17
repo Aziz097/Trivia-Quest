@@ -24,6 +24,7 @@ caches/
 wrapper/
 .tmp/
 daemon/
+native/
 
 # Keystore files
 *.jks
