@@ -80,7 +80,7 @@
         android:fillType="evenOdd"/>
     <path
         android:pathData="M80.26,110.8L129.92,216.71L184.73,112.22L80.26,110.8Z"
-        android:fillColor="#7254F5"/>
+        android:fillColor="#5A8DE0"/>
     <path
         android:pathData="M110.08,111.21C110.15,112.13 110.19,113.06 110.19,114.01C110.2,119.59 108.85,125.1 106.26,130.1C103.66,135.09 99.89,139.43 95.25,142.77"
         android:strokeLineJoin="round"
