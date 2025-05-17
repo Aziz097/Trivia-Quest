@@ -21,6 +21,9 @@ local.properties
 .idea/dictionaries/
 .idea/httpRequests/
 caches/
+wrapper/
+.tmp/
+daemon/
 
 # Keystore files
 *.jks
